@@ -97,7 +97,7 @@ export default function Contact() {
             <span className="text-white">Now</span>
           </h3>
           <p className="text-xl text-gray-300 max-w-2xl mx-auto">
-            Ready to transform your business? Let's discuss your project and create something amazing together.
+            Ready to transform your business? Let&apos;s discuss your project and create something amazing together.
           </p>
         </div>
 
@@ -107,7 +107,7 @@ export default function Contact() {
             <div className="bg-white/5 backdrop-blur-md rounded-3xl p-8 border border-white/10 shadow-2xl">
               <div className="mb-8">
                 <h4 className="text-2xl font-bold text-white mb-2">Send us a message</h4>
-                <p className="text-gray-400">We'll get back to you within 24 hours</p>
+                <p className="text-gray-400">We&apos;ll get back to you within 24 hours</p>
               </div>
 
               <form onSubmit={handleSubmit} className="space-y-6">

@@ -2,6 +2,7 @@ import { Metadata } from 'next'
 import Header from '@/components/Header'
 import Footer from '@/components/Footer'
 import { Shield, FileText, Target, Lock, Database, Trash2, AlertTriangle, Clipboard, Cookie, Scale, Phone, Smartphone, Mail } from 'lucide-react'
+import Link from 'next/link'
 
 export const metadata: Metadata = {
   title: 'Privacy Policy | AdsManagement - Digital Marketing Agency',
@@ -33,7 +34,7 @@ export default function PrivacyPolicy() {
           <div className="text-center mb-16">
             {/* Breadcrumb */}
             <nav className="flex items-center justify-center space-x-2 text-sm text-white/80 mb-8">
-              <a href="/" className="hover:text-yellow-300 transition-colors font-medium">Home</a>
+              <Link href="/" className="hover:text-yellow-300 transition-colors font-medium">Home</Link>
               <span>/</span>
               <span className="text-yellow-300 font-medium">Privacy Policy</span>
             </nav>
@@ -230,7 +231,7 @@ export default function PrivacyPolicy() {
                         Content Responsibility
                       </h4>
                       <p className="text-white/90 leading-relaxed">
-                        <strong>Important:</strong> AdsManagement respects the privacy and security of customers' advertising content and assets, which is why we will not control customers' advertising content. Customers must ensure and commit not to use accounts for purposes that violate the law. We will not be responsible for any issues regarding customer advertising content.
+                        <strong>Important:</strong> AdsManagement respects the privacy and security of customers&apos; advertising content and assets, which is why we will not control customers&apos; advertising content. Customers must ensure and commit not to use accounts for purposes that violate the law. We will not be responsible for any issues regarding customer advertising content.
                       </p>
                     </div>
                   </div>
@@ -275,9 +276,9 @@ export default function PrivacyPolicy() {
 
           {/* CTA Section */}
           <div className="text-center mt-12">
-            <a href="/" className="inline-flex items-center bg-gradient-to-r from-yellow-400 to-yellow-500 text-purple-900 px-8 py-4 rounded-full hover:from-yellow-300 hover:to-yellow-400 transition-all duration-300 text-lg font-bold shadow-xl transform hover:scale-105">
+            <Link href="/" className="inline-flex items-center bg-gradient-to-r from-yellow-400 to-yellow-500 text-purple-900 px-8 py-4 rounded-full hover:from-yellow-300 hover:to-yellow-400 transition-all duration-300 text-lg font-bold shadow-xl transform hover:scale-105">
               ← Back to Home
-            </a>
+            </Link>
           </div>
         </div>
       </section>

@@ -20,7 +20,7 @@ export default function WhyChooseUs() {
   ]
 
   return (
-    <section className="py-16 lg:py-24 bg-gradient-to-br from-purple-400 via-purple-600 to-blue-600 relative overflow-hidden">
+    <section className="py-16 lg:py-24 bg-black/30 backdrop-blur-xl relative overflow-hidden">
       {/* Background Elements */}
       <div className="absolute inset-0 overflow-hidden">
         <div className="absolute inset-0 bg-gradient-to-t from-purple-800/20 via-transparent to-purple-500/30"></div>
@@ -36,7 +36,7 @@ export default function WhyChooseUs() {
           </div>
           <h3 className="text-3xl md:text-4xl font-bold text-white mb-4">
             When You Become 
-            <span className="block text-yellow-300 mt-2">AdsManagement's Partner</span>
+            <span className="block text-yellow-300 mt-2">AdsManagement&apos;s Partner</span>
           </h3>
         </div>
 
