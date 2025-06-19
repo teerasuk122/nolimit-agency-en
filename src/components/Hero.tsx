@@ -24,7 +24,7 @@ export default function Hero() {
       logo: (
         <div className="">
           <Image
-            src="/brand/partner-badge.png.webp"
+            src="/partner-badge.png.webp"
             alt="Meta"
             width={120}
             height={40}
@@ -37,7 +37,7 @@ export default function Hero() {
       name: "Google",
       logo: (
         <Image
-          src="/brand/google-partner-la-gi.jpg.webp"
+          src="/google-partner-la-gi.jpg.webp"
           alt="Google"
           width={120}
           height={40}
@@ -50,7 +50,7 @@ export default function Hero() {
       logo: (
         <div className="">
           <Image
-            src="/brand/tiktok-partner2-1.png.webp"
+            src="/tiktok-partner2-1.png.webp"
             alt="TikTok"
             width={120}
             height={40}
@@ -64,7 +64,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12  rounded-md flex items-center justify-center  p-2">
           <Image
-            src="/brand/logo-01.png.webp"
+            src="/logo-01.png.webp"
             alt="LinkedIn"
             width={80}
             height={40}
@@ -78,7 +78,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12   rounded-md flex items-center justify-center  p-2">
           <Image
-            src="/brand/logo-02.png.webp"
+            src="/logo-02.png.webp"
             alt="Shopify"
             width={80}
             height={40}
@@ -92,7 +92,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12   rounded-md flex items-center justify-center p-2">
           <Image
-            src="/brand/logo-03.png.webp"
+            src="/logo-03.png.webp"
             alt="HubSpot"
             width={80}
             height={40}
@@ -106,7 +106,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12   rounded-md flex items-center justify-center  p-2">
           <Image
-            src="/brand/logo-04.png.webp"
+            src="/logo-04.png.webp"
             alt="Mailchimp"
             width={80}
             height={40}
@@ -120,7 +120,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12   rounded-md flex items-center justify-center  p-2">
           <Image
-            src="/brand/logo-05.png.webp"
+            src="/logo-05.png.webp"
             alt="WordPress"
             width={48}
             height={48}
@@ -134,7 +134,7 @@ export default function Hero() {
       logo: (
         <div className="w-20 h-12   rounded-md flex items-center justify-center  p-2">
           <Image
-            src="/brand/logo-06.png.webp"
+            src="/logo-06.png.webp"
             alt="Microsoft"
             width={80}
             height={40}

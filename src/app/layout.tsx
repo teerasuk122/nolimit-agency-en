@@ -15,11 +15,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
+  title: 'ADS Management',
+  description: 'ADS Management - Digital Marketing Agency',
   icons: {
-    icon: "/logoAds.png",
+    icon: '/logoAds.png',
+    apple: '/logoAds.png',
   },
-  title: "AdsManagement - AI Digital Agency",
-  description: "Comprehensive digital service ecosystem with innovative solutions for long-term growth journey",
   keywords: "digital marketing, facebook ads, social media marketing, SEO, web development, marketing agency",
 };
 
