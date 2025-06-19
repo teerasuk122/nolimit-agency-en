@@ -8,16 +8,16 @@ export default function ContactPage() {
       icon: Mail,
       title: "Email Us",
       description: "Send us an email anytime",
-      contact: "hello@adsmanagement.co.th",
-      action: "mailto:hello@adsmanagement.co.th",
+      contact: "ceo@adsmanagements.com",
+      action: "mailto:ceo@adsmanagements.com",
       gradient: "from-cyan-400 to-blue-600"
     },
     {
       icon: Phone,
       title: "Call Us",
       description: "Speak with our team directly",
-      contact: "079-211-6879",
-      action: "tel:+66792116879",
+      contact: "042110357",
+      action: "tel:+6642110357",
       gradient: "from-purple-400 to-pink-600"
     },
     {

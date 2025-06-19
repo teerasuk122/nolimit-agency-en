@@ -61,15 +61,15 @@ export default function Footer() {
                 <div className="w-10 h-10 bg-gradient-to-r from-cyan-500/20 to-purple-500/20 rounded-lg flex items-center justify-center">
                   <Phone className="w-4 h-4 text-cyan-400" />
                 </div>
-                <a href="tel:0792116879" className="text-gray-300 text-sm">0792116879</a>
+                <a href="tel:042110357" className="text-gray-300 text-sm">042110357</a>
               </div>
               
               <div className="flex items-center gap-3 group hover:text-cyan-400 transition-colors duration-300">
                 <div className="w-10 h-10 bg-gradient-to-r from-cyan-500/20 to-purple-500/20 rounded-lg flex items-center justify-center">
                   <Mail className="w-4 h-4 text-cyan-400" />
                 </div>
-                <a href="mailto:hello@adsmanagement.co.th" className="text-gray-300 text-sm">
-                  hello@adsmanagement.co.th
+                <a href="mailto:ceo@adsmanagements.com" className="text-gray-300 text-sm">
+                ceo@adsmanagements.com
                 </a>
               </div>
             </div>

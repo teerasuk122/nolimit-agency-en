@@ -45,7 +45,7 @@ export default function Contact() {
     {
       icon: Mail,
       title: "Email",
-      details: ["hello@adsmanagement.co.th"],
+      details: ["ceo@adsmanagements.com"],
       color: "from-indigo-500 to-indigo-600"
     }
   ]
