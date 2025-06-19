@@ -18,7 +18,10 @@ export const metadata: Metadata = {
   title: 'ADS Management',
   description: 'ADS Management - Digital Marketing Agency',
   icons: {
-    icon: '/logoAds.png',
+    icon: [
+      { url: '/favicon.ico', sizes: 'any' },
+      { url: '/logoAds.png', type: 'image/png' }
+    ],
     apple: '/logoAds.png',
   },
   keywords: "digital marketing, facebook ads, social media marketing, SEO, web development, marketing agency",
