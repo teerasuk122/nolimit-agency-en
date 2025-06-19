@@ -39,7 +39,7 @@ export default function Contact() {
     {
       icon: Phone,
       title: "Phone",
-      details: ["0792116879"],
+      details: ["042110357"],
       color: "from-blue-500 to-blue-600"
     },
     {
